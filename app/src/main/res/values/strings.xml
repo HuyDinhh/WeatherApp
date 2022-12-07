@@ -14,6 +14,7 @@
     <string name="sunset">Sunset: 9:00pm</string>
     <string name="sunrise">Sunrise: 8:00am</string>
     <string name="forecast">FORECAST</string>
+    <string name="getCurrentConditionsForLocation">Get Weather for My Location</string>
 
 
 </resources>
